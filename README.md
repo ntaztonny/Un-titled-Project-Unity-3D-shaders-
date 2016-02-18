@@ -12,7 +12,7 @@ Properties {
 	_BaseMap ("BaseMap (RGB)", 2D) = "white" {}
 }
 
-// Fragment program
+//Fragment program
 SubShader {
 	Tags { "RenderType" = "Opaque" }
 	Pass { 
